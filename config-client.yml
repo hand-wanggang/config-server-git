@@ -1,2 +1,5 @@
 info:
   profile: dev-master
+
+test:
+  key: '{cipher}12d9fbb254a73187db3c264ae87dd650426008f00a2281a6c323cc66ec4784f6'
